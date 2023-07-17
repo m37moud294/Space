@@ -1,0 +1,29 @@
+
+*{
+    background-color:#3669c9; ;
+}
+.head{
+    display: inline-block;
+    background-color: #3669c9;
+    font-size: 40px;
+
+}
+.sign {
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    width:320px;
+   align-content: center;
+}
+.email{
+    background-color: #fff;
+}
+.password{
+    background-color: #fff;
+}
+.reset{
+    background-color: #fff;
+}
+.submit{
+    background-color: #fff;
+}

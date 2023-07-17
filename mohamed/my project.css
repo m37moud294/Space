@@ -1,0 +1,118 @@
+body{
+
+    background-image: url("intro-1654456299.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-size: 100%;
+   
+}
+.p1{
+    color: rgba(255, 0, 25, 0.541);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-left: 20%;
+
+}
+.h1
+{
+    color :aliceblue;
+    text-align: center;
+}
+.pec1
+{
+    padding-left: 20%;
+
+}
+.p2
+{
+color :blanchedalmond;
+padding-left: 16%;
+padding-bottom: 10%;
+
+}
+.p10
+{
+    color :antiquewhite;
+    font-size: large;
+
+}
+.pec2
+{
+    padding-left: 35%;
+
+}
+.p3
+{
+    color :aliceblue;
+    font-size: medium;
+}
+.p4
+{
+    color :aliceblue;
+    font-size: medium;
+}
+.p5
+{
+    color :aliceblue;
+    font-size: medium;
+    padding-left: 10%;
+}
+.pec3
+{
+    padding-left: 28%;
+}
+.p6
+{
+    color :aliceblue;
+    font-size: medium;
+}
+.h2
+{
+    color :aliceblue;
+    text-align: center;
+}
+.p7
+{
+    color :aliceblue;
+    font-size: medium;
+    padding-left: 10%;
+}
+.pec4
+{
+    padding-left: 20%;
+}
+.p8
+{
+    color :aliceblue;
+    font-size: medium;
+    text-align: center;
+    padding-bottom: 10%;
+}
+.p9
+{
+    color :aliceblue;
+    font-size: large;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.s1
+{
+    color :aliceblue;
+    font-size: xx-large;
+    text-align: center;
+    padding-bottom: 20%;
+}
+.a1
+{
+    font-size: xx-large;
+    padding-left: 45%;
+    color: brown;
+    text-decoration: none;
+    cursor: cell;
+
+}
+a:hover
+{
+    color: blue;
+    font-size: 40 px;
+}

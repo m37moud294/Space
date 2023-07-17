@@ -1,0 +1,91 @@
+*{
+    color: white;
+    padding: 0%;
+    margin: 0%;
+}
+.space{
+    padding-top: 2px!important;
+    padding-bottom: 32px!important;
+    max-width: 300px;
+    margin: auto;
+}
+
+
+.p1{
+    padding: 0 20%;
+    margin: auto;
+    width: 60%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.w{
+    padding: 0 10%;
+    margin: auto;
+    width: 60%;
+}
+.picture{
+    padding: 0 10%;
+    
+}
+.p2{
+    padding: 0 10%;
+    margin: auto;
+    width: 80%;
+}
+.moon{
+    padding: 0 10%;
+    margin: auto;
+    width: 80%;
+}
+p{
+    font-family: 'Titillium Web', sans-seri;
+}
+.Aero{
+    padding: 0 10%;
+    margin: auto;
+    width: 80%;
+}
+.p3
+{
+   padding: 10 20%;
+    width: 70%;
+    margin: 0 10%;
+    font-family: 'Titillium Web', sans-serif ;
+}
+.p4{
+    padding: 0 45%;
+width: 20%;
+margin: 0%;
+}
+.picture3{
+    padding: 10%;
+}
+.picture4{
+    padding: 0 10%;
+}
+.p4{
+    padding: 0 10%;
+    width: 60%;
+    margin: 0 0%;
+    font-family: 'Titillium Web', sans-serif ;
+}
+.p5{
+    padding: 0 10%;
+    width: 60%;
+    margin: 0 0%;
+    font-family: 'Titillium Web', sans-serif ;
+    font-size: larger;
+}
+
+body{
+    background: url(../photos/space\ future\ photos/الخلفيه.jpg);
+    background-size: 100% 100%;
+    background-attachment:fixed ;
+}
+.figure{
+padding:0 10%;
+font-size: larger;
+}
+.mars{
+    padding:0 10%;
+font-size: larger;
+}
